@@ -5,6 +5,8 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/angelowh)](https://github.com/angelowh)
 [![Github Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/angelowh)](https://github.com/angelowh)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Pedro&theme=blue-green)](https://github.com/angelowh/github-readme-stats)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro&theme=blue-green)
 
 <!--
 **Angelowh/Angelowh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
