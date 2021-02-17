@@ -8,8 +8,6 @@
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Pedro-Angelo)
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro&theme=blue-green)
-
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
