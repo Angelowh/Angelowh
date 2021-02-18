@@ -5,7 +5,7 @@
 - Ceará - Brasil
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/angelowh)](https://github.com/angelowh)
-[![Github Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/angelowh)](https://github.com/angelowh)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://gmail.com/pedroroangelo2002@gmail)](https://gmail.com/pedroroangelo2002@gmail)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Angelowh)
 
