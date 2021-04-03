@@ -6,6 +6,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/angelowh)](https://github.com/angelowh)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/angelowh)](https://github.com/angelowh)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedronetx_/?hl=pt-br)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Angelowh)
 
