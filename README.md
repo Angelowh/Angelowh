@@ -10,7 +10,7 @@
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Angelowh)
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelowh&theme=blue-green&layout=compact)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelowh&theme=blue-white&layout=compact)
 
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 
