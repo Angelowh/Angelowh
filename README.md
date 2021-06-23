@@ -4,7 +4,6 @@
 - 🚀 Atualmente estagiário backend
 - Ceará - Brasil
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelowh)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pedroroangelo2002@gmail.com)](mailto:pedroroangelo2002@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedronetx_/?hl=pt-br)
 
