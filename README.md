@@ -1,6 +1,6 @@
 ### ✨ Hi everyone, Eu sou Pedro Angelo 👋
 
-- 🎓👨‍💻 Cursando técnico de Informática
+- 🎓👨‍💻 Técnico de Informática
 - 🚀 Atualmente estagiário backend
 - Ceará - Brasil
 
