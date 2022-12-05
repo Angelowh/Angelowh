@@ -1,7 +1,7 @@
 ### ✨ Hi everyone, Eu sou Pedro Angelo 👋
 
 - 🎓👨‍💻 Técnico de Informática
-- 🚀 Atualmente estagiário backend
+- 🚀 Atualmente programador backend
 - Ceará - Brasil
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pedroroangelo2002@gmail.com)](mailto:pedroroangelo2002@gmail.com)
