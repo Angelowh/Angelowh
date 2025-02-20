@@ -10,10 +10,6 @@
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelowh&theme=blue-white&layout=compact)
 
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
-
-[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
-
 <!--
 **Angelowh/Angelowh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
