@@ -2,7 +2,7 @@
 
 - 🎓👨‍💻 Técnico de Informática
 - Cursando Engenharia de Software
-- 🚀 Atualmente programador backend
+- 🚀 Programador backend
 - Ceará - Brasil
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pedroroangelo2002@gmail.com)](mailto:pedroroangelo2002@gmail.com)
