@@ -1,8 +1,8 @@
 ### ✨ Hi everyone, Eu sou Pedro Angelo 👋
 
 - 🎓👨‍💻 Técnico de Informática
-- Cursando Engenharia de Software
-- 🚀 Programador backend
+- Cursando Engenharia de Software na Unicesumar
+- 🚀 Desenvolvedor Backend
 - Ceará - Brasil
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pedroroangelo2002@gmail.com)](mailto:pedroroangelo2002@gmail.com)
