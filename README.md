@@ -10,11 +10,10 @@
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelowh&theme=blue-white&layout=compact)
 
-<!--
-**Angelowh/Angelowh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Angelowh/Angelowh/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Angelowh/Angelowh/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Angelowh/Angelowh/output/pacman-contribution-graph.svg">
+</picture>
 
-Here are some ideas to get you started:
-
-- 🎓👨‍💻 Cursando técnico de Informática
-- 🚀 Atualmente estagiário backend
---> 
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
