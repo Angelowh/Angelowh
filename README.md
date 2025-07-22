@@ -1,14 +1,34 @@
-### ✨ Hi everyone, Eu sou Pedro Angelo 👋
+<h1 align="left">Hi everyone, Eu sou Pedro Angelo 👋</h1>
 
-- 🎓👨‍💻 Técnico de Informática
-- Cursando Engenharia de Software na Unicesumar
-- 🚀 Desenvolvedor Backend
-- Ceará - Brasil
+###
+<h2 align="left">About me</h2>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pedroroangelo2002@gmail.com)](mailto:pedroroangelo2002@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedronetx_/?hl=pt-br)
+<p align="left">📚 Cursando Engenharia de Software na Unicesumar<br>🚀 Desenvolvedor Backend<br>🌎Ceará - Brasil
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelowh&theme=blue-white&layout=compact)
+###
+<h2 align="left">Stacks</h2>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  height="50" alt="csharp logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="50" alt="dotnet logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="50" alt="spring logo"/>          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="50" alt="kubernetes logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="50" alt="azure logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  height="50" alt="aws logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  height="50" alt="postgres logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"  height="50" alt="oracle logo"/>
+</div>
+
+###
+
+<h2 align="left">Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelowh&theme=tokyonight&layout=compact"/>
+</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Angelowh/Angelowh/output/pacman-contribution-graph-dark.svg">
@@ -16,4 +36,14 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Angelowh/Angelowh/output/pacman-contribution-graph.svg">
 </picture>
 
-<!--_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_-->
+###
+<h2 align="left">Contacts</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedro-%C3%A2ngelo-341b55215" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/pedronetx_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
