@@ -26,15 +26,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelowh&theme=tokyonight&layout=compact"/>
+  <img src= "https://github-profile-trophy.vercel.app/?username=Angelowh&theme=gruvbox&rank=-C,-?&row=2&column=3)"/>
 </div>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Angelowh/Angelowh/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Angelowh/Angelowh/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Angelowh/Angelowh/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 <h2 align="left">Contacts</h2>
@@ -47,3 +41,11 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Angelowh/Angelowh/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Angelowh/Angelowh/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Angelowh/Angelowh/output/pacman-contribution-graph.svg">
+</picture>
