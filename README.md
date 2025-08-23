@@ -26,7 +26,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight"/>
-  <img src= "https://github-profile-trophy.vercel.app/?username=Angelowh&theme=gruvbox&rank=-C,-?&row=2&column=3)"/>
+<!--   <img src= "https://github-profile-trophy.vercel.app/?username=Angelowh&theme=gruvbox&rank=-C,-?&row=2&column=3)"/> -->
 </div>
 
 
