@@ -6,21 +6,6 @@
 <p align="left">📚 Cursando Engenharia de Software na Unicesumar<br>🚀 Desenvolvedor Backend<br>🌎Ceará - Brasil
 
 ###
-<h2 align="left">Stacks</h2>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  height="50" alt="csharp logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="50" alt="dotnet logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="50" alt="spring logo"/>          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="50" alt="kubernetes logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="50" alt="azure logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  height="50" alt="aws logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  height="50" alt="postgres logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"  height="50" alt="oracle logo"/>
-</div>
-
-###
 
 <h2 align="left">Stats</h2>
 
@@ -29,6 +14,45 @@
 <!--   <img src= "https://github-profile-trophy.vercel.app/?username=Angelowh&theme=gruvbox&rank=-C,-?&row=2&column=3)"/> -->
 </div>
 
+
+###
+<h2 align="left">Stacks</h2>
+
+<h3 align= "left">Languages</h3>
+<picture>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  height="50" alt="csharp logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="java logo" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" height="50" alt="python logo" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/html5/html5-plain.svg" height="50" alt="html logo" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/css3/css3-plain.svg" height="50" alt="css logo" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-plain.svg" height="50" alt="type logo" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-plain.svg" height="50" alt="js logo" />
+</picture>
+
+<h3 align= "left">Frameworks & Tools</h3>
+<picture>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="50" alt="dotnet logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="50" alt="spring logo"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/angularjs/angularjs-plain.svg" height="50" alt="angular logo"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-plain.svg" height="50" alt="docker logo"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/redis/redis-plain.svg" height="50" alt="redis logo"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-plain.svg" height="50" alt="git logo"/>
+</picture>
+
+<h3 align= "left">DevOps</h3>
+<picture>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="50" alt="kubernetes logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="50" alt="azure logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  height="50" alt="aws logo"/>
+</picture>
+
+<h3 align= "left">Databases</h3>
+<picture>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  height="50" alt="postgres logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"  height="50" alt="oracle logo"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/dynamodb/dynamodb-original.svg"  height="50" alt="dynamo logo"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"  height="50" alt="sql server logo"/>
+</picture>
 
 ###
 <h2 align="left">Contacts</h2>
