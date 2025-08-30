@@ -3,7 +3,7 @@
 ###
 <h2 align="left">About me</h2>
 
-<p align="left">📚 Cursando Engenharia de Software na Unicesumar<br>🚀 Desenvolvedor Backend<br>🌎Ceará - Brasil
+<p align="left">📚 Cursando Engenharia de Software na Unicesumar<br>🚀 Desenvolvedor Full Stack<br>🌎Ceará - Brasil
 
 ###
 
