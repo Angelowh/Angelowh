@@ -9,9 +9,9 @@
 
 <h2 align="left">Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Angelowh&show_icons=true&theme=tokyonight"/>
-<!--   <img src= "https://github-profile-trophy.vercel.app/?username=Angelowh&theme=gruvbox&rank=-C,-?&row=2&column=3)"/> -->
+<div align="left">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Angelowh&show_icons=true&theme=tokyonight"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorivald&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 
@@ -57,7 +57,7 @@
 ###
 <h2 align="left">Contacts</h2>
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/pedro-%C3%A2ngelo-341b55215" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
