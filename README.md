@@ -34,16 +34,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="50" alt="dotnet logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="50" alt="spring logo"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/angularjs/angularjs-plain.svg" height="50" alt="angular logo"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" height="50" alt="node logo"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-plain.svg" height="50" alt="docker logo"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/redis/redis-plain.svg" height="50" alt="redis logo"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-plain.svg" height="50" alt="git logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height="50" alt="rabbit logo"/>
 </picture>
 
 <h3 align= "left">DevOps</h3>
 <picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="50" alt="kubernetes logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="50" alt="azure logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  height="50" alt="aws logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="50" alt="aws logo"/>
 </picture>
 
 <h3 align= "left">Databases</h3>
@@ -51,7 +53,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  height="50" alt="postgres logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"  height="50" alt="oracle logo"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/dynamodb/dynamodb-original.svg"  height="50" alt="dynamo logo"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"  height="50" alt="sql server logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="sql server logo" />          
+<!--   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"  height="50" alt="sql server logo"/> -->
 </picture>
 
 ###
