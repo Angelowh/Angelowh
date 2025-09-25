@@ -61,12 +61,8 @@
 <h2 align="left">Contacts</h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/pedro-%C3%A2ngelo-341b55215" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
-  </a>
-  <a href="https://www.instagram.com/pedronetx_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/>
-  </a>
+  <a href="https://www.linkedin.com/in/pedro-%C3%A2ngelo-341b55215" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/pedronetx_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </div>
 
 ###
