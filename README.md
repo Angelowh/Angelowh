@@ -22,7 +22,7 @@
 <picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  height="50" alt="csharp logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="java logo" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" height="50" alt="python logo" />
+  <img src="https://devicon-website.vercel.app/api/python/original.svg" height="50" alt="python logo" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/html5/html5-plain.svg" height="50" alt="html logo" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/css3/css3-plain.svg" height="50" alt="css logo" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-plain.svg" height="50" alt="type logo" />
