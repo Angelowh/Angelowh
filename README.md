@@ -36,7 +36,7 @@
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/angularjs/angularjs-plain.svg" height="50" alt="angular logo"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" height="50" alt="node logo"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-plain.svg" height="50" alt="docker logo"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/redis/redis-plain.svg" height="50" alt="redis logo"/>
+  <img src="https://devicon-website.vercel.app/api/redis/original.svg" height="50" alt="redis logo"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-plain.svg" height="50" alt="git logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height="50" alt="rabbit logo"/>
 </picture>
