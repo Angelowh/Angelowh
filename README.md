@@ -20,8 +20,8 @@
 
 <h3 align= "left">Languages</h3>
 <picture>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  height="50" alt="csharp logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="java logo" />
+  <img src="https://devicon-website.vercel.app/api/csharp/original.svg"  height="50" alt="csharp logo" />
+  <img src="https://devicon-website.vercel.app/api/java/original.svg" height="50" alt="java logo" />
   <img src="https://devicon-website.vercel.app/api/python/original.svg" height="50" alt="python logo" />
   <img src="https://devicon-website.vercel.app/api/html5/original.svg" height="50" alt="html logo" />
   <img src="https://devicon-website.vercel.app/api/css3/original.svg" height="50" alt="css logo" />
@@ -36,26 +36,25 @@
   <img src="https://devicon-website.vercel.app/api/angularjs/original.svg" height="50" alt="angular logo"/>
   <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" height="50" alt="node logo"/>
   <img src="https://devicon-website.vercel.app/api/nestjs/plain.svg" height="50" alt="nest logo"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-plain.svg" height="50" alt="docker logo"/>
+  <img src="https://devicon-website.vercel.app/api/docker/plain.svg" height="50" alt="docker logo"/>
   <img src="https://devicon-website.vercel.app/api/redis/original.svg" height="50" alt="redis logo"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-plain.svg" height="50" alt="git logo"/>
+  <img src="https://devicon-website.vercel.app/api/git/original.svg" height="50" alt="git logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height="50" alt="rabbit logo"/>
 </picture>
 
 <h3 align= "left">DevOps</h3>
 <picture>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="50" alt="kubernetes logo"/>
+  <img src="https://devicon-website.vercel.app/api/kubernetes/plain.svg" height="50" alt="kubernetes logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="50" alt="azure logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="50" alt="aws logo"/>
 </picture>
 
 <h3 align= "left">Databases</h3>
 <picture>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  height="50" alt="postgres logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"  height="50" alt="oracle logo"/>
+  <img src="https://devicon-website.vercel.app/api/postgresql/original.svg"  height="50" alt="postgres logo"/>
+  <img src="https://devicon-website.vercel.app/api/oracle/original.svg"  height="50" alt="oracle logo"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/dynamodb/dynamodb-original.svg"  height="50" alt="dynamo logo"/>
-  <img src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg?color=%23FF0000" height="50" alt="sql server logo" />          
-<!--   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"  height="50" alt="sql server logo"/> -->
+  <img src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg?color=%23FF0000" height="50" alt="sql server logo" />
 </picture>
 
 ###
