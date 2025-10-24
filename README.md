@@ -54,7 +54,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  height="50" alt="postgres logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"  height="50" alt="oracle logo"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/dynamodb/dynamodb-original.svg"  height="50" alt="dynamo logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="sql server logo" />          
+  <img src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg?color=%23FF0000" height="50" alt="sql server logo" />          
 <!--   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"  height="50" alt="sql server logo"/> -->
 </picture>
 
