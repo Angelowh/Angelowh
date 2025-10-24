@@ -23,18 +23,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  height="50" alt="csharp logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="java logo" />
   <img src="https://devicon-website.vercel.app/api/python/original.svg" height="50" alt="python logo" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/html5/html5-plain.svg" height="50" alt="html logo" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/css3/css3-plain.svg" height="50" alt="css logo" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-plain.svg" height="50" alt="type logo" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-plain.svg" height="50" alt="js logo" />
+  <img src="https://devicon-website.vercel.app/api/html5/original.svg" height="50" alt="html logo" />
+  <img src="https://devicon-website.vercel.app/api/css3/original.svg" height="50" alt="css logo" />
+  <img src="https://devicon-website.vercel.app/api/typescript/original.svg" height="50" alt="type logo" />
+  <img src="https://devicon-website.vercel.app/api/javascript/original.svg" height="50" alt="js logo" />
 </picture>
 
 <h3 align= "left">Frameworks & Tools</h3>
 <picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="50" alt="dotnet logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="50" alt="spring logo"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/angularjs/angularjs-plain.svg" height="50" alt="angular logo"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" height="50" alt="node logo"/>
+  <img src="https://devicon-website.vercel.app/api/angularjs/original.svg" height="50" alt="angular logo"/>
+  <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" height="50" alt="node logo"/>
   <img src="https://devicon-website.vercel.app/api/nestjs/plain.svg" height="50" alt="nest logo"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-plain.svg" height="50" alt="docker logo"/>
   <img src="https://devicon-website.vercel.app/api/redis/original.svg" height="50" alt="redis logo"/>
