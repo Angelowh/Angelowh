@@ -49,6 +49,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="50" alt="aws logo"/>
 </picture>
 
+<h3 align= "left">Code Quality</h3>
+<picture>
+  <img src="https://devicon-website.vercel.app/api/eslint/original.svg"  height="50" alt="eslint logo"/>
+  <img src="https://devicon-website.vercel.app/api/jenkins/original.svg"  height="50" alt="jenkins logo"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-plain-wordmark.svg"  height="50" alt="sonar logo"/>
+</picture>
+
+
 <h3 align= "left">Databases</h3>
 <picture>
   <img src="https://devicon-website.vercel.app/api/postgresql/original.svg"  height="50" alt="postgres logo"/>
